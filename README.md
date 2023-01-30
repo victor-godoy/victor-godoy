@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there, I'm Victor! 👋
 
-<!--
-**victor-godoy/victor-godoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 Focus on web development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+
+<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victor-godoy&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-godoy&layout=compact&theme=dracula">
+</div>
+
++
+
+
+ <div>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  </div>
+  
+  
+  ##
+  
+ #### Feel free to reach me on LinkedIn
+  <div> 
+  <a href="https://www.linkedin.com/in/victor-godoy-a64ba6209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
