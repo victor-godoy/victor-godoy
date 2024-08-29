@@ -1,7 +1,8 @@
 ### Hi there, I'm Victor! 👋
 
 
-- 📚 Focus on web development 
+- 📚 Focus on web development
+- In this account, I put the most complete projects  
 
 
 ##
